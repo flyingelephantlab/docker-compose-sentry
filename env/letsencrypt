@@ -1,0 +1,5 @@
+DOMAINS=sentry.zaoota.com
+EMAIL=noc@sentry.zaoota.com
+WEBROOT_PATH=/tmp/letsencrypt
+EXP_LIMIT=30
+CHECK_FREQ=30
